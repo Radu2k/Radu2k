@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Radu Salavat
 
-<!--
-**Radu2k/Radu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Tech Enthusiast**  
+🏢 **Software Engineer at ARM**  
+💼 **Founder of Datary**  
+📈 **Bridging Business and Tech with a Focus on Innovation**  
+⚠️ *Opinions are my own and not those of my employer.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radu-salavat)
+
+---
+
+## 🚀 About Me
+
+I'm a passionate engineer, currently working at **ARM**. With a background in software development and entrepreneurship.
+
+---
+
+## 💡 Interests
+
+- **Machine Learning Engineering:** Building scalable ML systems.  
+- **Entrepreneurship:** Exploring opportunities to innovate and invest.  
+- **Personal Growth:** Advocating for continuous learning and development.
+
+---
+
+## 🌟 Skills
+
+- Machine Learning Frameworks  
+- Software Development  
+- Innovation and Entrepreneurship  
