@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Radu Salavat
-
 🌟 **Tech Enthusiast**  
 🏢 **Software Engineer at ARM**  
 💼 **Founder of Datary**  
