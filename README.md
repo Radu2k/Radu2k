@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Radu
+
 🌟 **Tech Enthusiast**  
 🏢 **Software Engineer at ARM**  
 💼 **Founder of Datary**  
